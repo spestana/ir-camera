@@ -8,7 +8,7 @@ This repository contains an executable file converter, example images, and an ex
 
 ### Getting Started
  - Download or clone this repository, including the executable and sample images
- - Open the example jupyter notebook and follow along with the provided sample images
+ - Open the ```convert-irb.ipynb``` jupyter notebook and follow along with the provided sample images
 
 
 
