@@ -1,6 +1,6 @@
 ## Working with Jenoptik VarioCam Infrared Images
 
-![ir and vis image example](https://github.com/spestana/ir-camera/ir-vis-example-AG082624.jpg)
+![ir and vis image example](https://raw.githubusercontent.com/spestana/ir-camera/master/ir-vis-example-AG082624.jpg)
 
 This repository contains an executable file converter (irb2txt), example images, and an example jupyter notebook that walks through the process of converting .irb Jenoptik VarioCam infrared images into a workable format, then opening and exploring the data with python.
 
