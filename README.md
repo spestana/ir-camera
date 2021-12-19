@@ -10,5 +10,6 @@ This repository contains an executable file converter (irb2txt), example images,
  - Download or clone this repository, including the executable and sample images
  - Open the ```convert-irb.ipynb``` jupyter notebook and follow along with the provided sample images
 
-
+### Known Issues
+ - This file conversion tool will not work with images from some camera models. [Read here for more details.](https://github.com/spestana/ir-camera/issues/1)
 
